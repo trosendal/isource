@@ -9,8 +9,8 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include <vector.h>
-#include <utils.h>
+#include "vector.h"
+#include "utils.h"
 
 /****************************************************************/
 /*						myutils::Matrix							*/

@@ -17,16 +17,16 @@
 #include "DNA.h"
 #include "vector.h"*/
 
-#include <myerror.h>
-#include <utils.h>
-#include <cmatrix.h>
-#include <vector.h>
-#include <matrix.h>
-#include <lotri_matrix.h>
-#include <random.h>
-#include <DNA.h>
-#include <pause.h>
-#include <sort.h>
+#include "myerror.h"
+#include "utils.h"
+#include "cmatrix.h"
+#include "vector.h"
+#include "matrix.h"
+#include "lotri_matrix.h"
+#include "random.h"
+#include "DNA.h"
+#include "pause.h"
+#include "sort.h"
 
 /*#include "controlwizard.h" /* has problems in Linux with pointers */
 /*#include "pause.h"	/* removed because conio.h is not standard */

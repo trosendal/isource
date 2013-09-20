@@ -1,9 +1,9 @@
 #ifndef _CLUSTER_H_
 #define _CLUSTER_H_
 
-#include <myutils.h>
+#include "myutils.h"
 #include "tsv.h"
-#include <mydouble.h>
+#include "mydouble.h"
 //#include "powell.h"
 #include <fstream>
 #include <time.h>

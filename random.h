@@ -10,11 +10,11 @@
 #include <cmath>
 #include <time.h>
 #include <vector>
-#include <vector.h>
-#include <matrix.h>
-#include <lotri_matrix.h>
+#include "vector.h"
+#include "matrix.h"
+#include "lotri_matrix.h"
 
-#include <myerror.h>
+#include "myerror.h"
 
 namespace myutils {
 class Random {
